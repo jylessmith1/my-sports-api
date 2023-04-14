@@ -1,0 +1,38 @@
+[
+  {
+    "id:": "1",
+    "Name": "Kevin Durant",
+    "Position": " Small Forward",
+    "Team": "Phoenix Suns"
+  },
+  {
+    "id": "2",
+    "Name": "Devin Booker",
+    "Position": "Shooting Guard",
+    "Team": "Phoenix Suns"
+  },
+  {
+    "id": "3",
+    "Name": "Lebron James",
+    "Position": "Point Guard, Shooting Guard, Small Forward, Power Forward",
+    "Team": "Los Angeles Lakers"
+  },
+  {
+    "id": "4",
+    "Name": "Tracy McGrady",
+    "Position": "Shooting Guard",
+    "Team": "Orlando Magic"
+  },
+  {
+    "id": "5",
+    "Name": "Shaquille O'Neil",
+    "Position": "Center",
+    "Team": "Los Angeles Lakers"
+  },
+  {
+    "id": "6",
+    "name": "Ray Allen",
+    "position": "forward",
+    "team": "Miami Heat"
+  }
+]
